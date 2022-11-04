@@ -1,0 +1,4 @@
+github.com/miraiex/go-flags v1.6.0 h1:Wki4NXVJ4gaQqeYua0AnZPX2H58GPG2JxRUAtZfxcgU=
+github.com/miraiex/go-flags v1.6.0/go.mod h1:8AXg+TLT9dvXYYF6d6O9k/3em53A+LKD67tFYQKGCeo=
+golang.org/x/sys v0.0.0-20210320140829-1e4c9ba3b0c4 h1:EZ2mChiOa8udjfp6rRmswTbtZN/QzUQp4ptM4rnjHvc=
+golang.org/x/sys v0.0.0-20210320140829-1e4c9ba3b0c4/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
